@@ -1,1 +1,7 @@
-
+repo:  
+  - targets:
+    -  Google
+    - Mozilla
+  - name: "easy-erb.github.io"
+  - owner: "redstone2010"
+  # Owners' names are case-sensitive! 
