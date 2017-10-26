@@ -1,1 +1,1 @@
-* NOTE: *
+**NOTE:** Only for `runtime.cpp`.
